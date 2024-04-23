@@ -14,6 +14,12 @@ ctx.fillRect(25, 25, 100, 100);
 ctx.clearRect(45, 45, 60, 60);
 ctx.strokeRect(50, 50, 50, 50);
 ```
+#### Circle
+```js
+ctx.beginPath();
+ctx.arc(90, 65, 5, 0, Math.PI * 2, true);
+ctx.stroke();
+```
 #### Triangle
 ```js
 // Filled triangle
