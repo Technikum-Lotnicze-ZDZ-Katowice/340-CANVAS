@@ -2,10 +2,6 @@
 
 ```html
 <canvas id="canvas" width="150" height="150"></canvas>
-
-<canvas id="clock" width="150" height="150">
-  <img src="images/clock.png" width="150" height="150" alt="A clock" />
-</canvas>
 ```
 ```js
 const canvas = document.getElementById("canvas");
