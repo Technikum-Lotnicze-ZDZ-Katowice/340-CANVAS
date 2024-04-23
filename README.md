@@ -8,11 +8,8 @@
 <canvas id="clock" width="150" height="150">
   <img src="images/clock.png" width="150" height="150" alt="A clock" />
 </canvas>
-
-
-------
-
-
+```
+```js
 const canvas = document.getElementById("tutorial");
 const ctx = canvas.getContext("2d");
 
