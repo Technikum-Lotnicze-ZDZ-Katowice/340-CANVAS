@@ -8,6 +8,9 @@ const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 
 ```
+### ZADANIA
+ZAD34001 - Wypełnij canvas gradientem zbudowanym z prostokątów (jak poniżej) tak aby skalował się wraz z wielkością elementu (canvas)
+
 
 ### Tutorials
 
