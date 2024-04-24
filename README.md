@@ -8,7 +8,7 @@ const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 
 ```
-#### Rect
+#### Rectangle
 ```js
 ctx.fillRect(25, 25, 100, 100);
 ctx.clearRect(45, 45, 60, 60);
