@@ -43,7 +43,7 @@ ZAD34001 - Wypełnij canvas gradientem zbudowanym z prostokątów (jak poniżej)
 
 ZAD34002 - Wypełnij canvas kółkami o losowych wymiarach, przezroczystości, i położeniu (particle effect).
 
-ZAD34003 - Narysuj Kartkę świątyeczną w canvas zawierającą jajko, kurczaczka, krzyż,. Dla zaawansowanych zając.
+ZAD34003 - Narysuj Kartkę świąteczną (wielkanocną) w canvas zawierającą jajko, kurczaczka, krzyż,. Dla zaawansowanych zając i napis wesołych świąt.
 ### Tutorials
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial?retiredLocale=pl
