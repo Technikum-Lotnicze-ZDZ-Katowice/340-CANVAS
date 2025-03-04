@@ -41,7 +41,9 @@ ctx.stroke();
 ### ZADANIA
 ZAD34001 - Wypełnij canvas gradientem zbudowanym z prostokątów (jak poniżej) tak aby skalował się wraz z wielkością elementu (canvas)
 
+ZAD34002 - Wypełnij canvas kółkami o losowych wymiarach, przezroczystości, i położeniu (particle effect).
 
+ZAD34003 - Narysuj Kartkę świątyeczną w canvas zawierającą jajko, kurczaczka, krzyż,. Dla zaawansowanych zając.
 ### Tutorials
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial?retiredLocale=pl
