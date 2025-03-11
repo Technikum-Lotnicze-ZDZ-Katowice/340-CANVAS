@@ -46,6 +46,9 @@ ZAD34002 - Wypełnij canvas kółkami o losowych wymiarach, przezroczystości, i
 ZAD34003 - Narysuj Kartkę świąteczną (wielkanocną) w canvas zawierającą jajko, kurczaczka, krzyż,. Dla zaawansowanych zając i napis wesołych świąt.
 
 ZAD34004 - Przygotuj klon gry Arkanoid;
+
+!(Arkanoid)[https://www.asteroidg.com/images/screenshots/arkanoid_1986_01.png]
+
 ### Tutorials
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial?retiredLocale=pl
