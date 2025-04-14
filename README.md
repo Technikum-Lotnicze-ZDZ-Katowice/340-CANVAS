@@ -21,6 +21,7 @@ ctx.arc(90, 65, 5, 0, Math.PI * 2, true);
 ctx.stroke();
 ```
 #### Triangle
+
 ```js
 // Filled triangle
 ctx.beginPath();
@@ -63,3 +64,5 @@ https://www.ponggame.org/
 ### Links
 https://fontstruct.com/fontstructions/show/2399842/pong-65
 https://fontstruct.com/fontstructions/show/2399648/ataris-pong-score
+https://dev.to/ekeijl/retro-crt-terminal-screen-in-css-js-4afh
+https://www.creativebloq.com/how-to/add-svg-filters-with-css
