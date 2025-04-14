@@ -47,6 +47,8 @@ ZAD34003 - Narysuj Kartkę świąteczną (wielkanocną) w canvas zawierającą j
 
 ZAD34004 - Przygotuj klon gry Arkanoid (z uproszczoną grafiką);
 
+![Logo](https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg)
+
 ![Arkanoid](https://www.asteroidg.com/images/screenshots/arkanoid_1986_01.png)
 
 ### Tutorials
