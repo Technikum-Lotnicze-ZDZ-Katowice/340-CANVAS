@@ -52,6 +52,10 @@ https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg
 
 ![Arkanoid](https://www.asteroidg.com/images/screenshots/arkanoid_1986_01.png)
 
+ZAD34005 - Przygotuj klon klasycznej gry PONG
+
+![Pong](pong.png)
+
 ### Tutorials
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial?retiredLocale=pl
