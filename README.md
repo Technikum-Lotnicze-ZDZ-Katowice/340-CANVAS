@@ -47,7 +47,7 @@ ZAD34003 - Narysuj Kartkę świąteczną (wielkanocną) w canvas zawierającą j
 
 ZAD34004 - Przygotuj klon gry Arkanoid (z uproszczoną grafiką);
 
-![Logo](https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg)
+https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg
 
 ![Arkanoid](https://www.asteroidg.com/images/screenshots/arkanoid_1986_01.png)
 
@@ -61,4 +61,5 @@ https://pl.wikipedia.org/wiki/Arkanoid
 https://www.ponggame.org/
 
 ### Links
+https://fontstruct.com/fontstructions/show/2399842/pong-65
 https://fontstruct.com/fontstructions/show/2399648/ataris-pong-score
