@@ -52,3 +52,7 @@ ZAD34004 - Przygotuj klon gry Arkanoid (z uproszczoną grafiką);
 ### Tutorials
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial?retiredLocale=pl
+
+### Info
+
+https://www.ponggame.org/
