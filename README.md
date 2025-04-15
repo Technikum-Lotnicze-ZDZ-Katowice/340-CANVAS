@@ -54,9 +54,10 @@ https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg
 
 IIIi - 
 
--Kajetan - https://magik244.github.io/game/
--Dominik - https://domini
-Oliwier - https://czarodziej64.github.io/oliwieroid/
+- Kajetan - https://magik244.github.io/game/
+- Dominik - https://domini
+- Oliwier - https://czarodziej64.github.io/oliwieroid/
+- Kuba - https://technikum-lotnicze-zdz-katowice.github.io/arkanoid-kuba/
 
 ZAD34005 - Przygotuj klon klasycznej gry PONG
 
