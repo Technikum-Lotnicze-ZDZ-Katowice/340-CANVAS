@@ -52,6 +52,10 @@ https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg
 
 ![Arkanoid](https://www.asteroidg.com/images/screenshots/arkanoid_1986_01.png)
 
+IIIi - https://magik244.github.io/game/
+
+Kajetan - 
+
 ZAD34005 - Przygotuj klon klasycznej gry PONG
 
 ![Pong](pong.png)
