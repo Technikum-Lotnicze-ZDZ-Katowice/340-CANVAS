@@ -55,7 +55,7 @@ https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg
 IIIi - 
 
 - Kajetan - https://magik244.github.io/game/
-- Dominik - https://domini
+- Dominik - https://technikum-lotnicze-zdz-katowice.github.io/dominiczkanoid/
 - Oliwier - https://czarodziej64.github.io/oliwieroid/
 - Kuba - https://technikum-lotnicze-zdz-katowice.github.io/arkanoid-kuba/
 
