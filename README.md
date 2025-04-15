@@ -58,6 +58,7 @@ IIIi -
 - Dominik - https://technikum-lotnicze-zdz-katowice.github.io/dominiczkanoid/
 - Oliwier - https://czarodziej64.github.io/oliwieroid/
 - Kuba - https://technikum-lotnicze-zdz-katowice.github.io/arkanoid-kuba/
+- Igor - https://technikum-lotnicze-zdz-katowice.github.io/igor-newrepo/
 
 ZAD34005 - Przygotuj klon klasycznej gry PONG
 
