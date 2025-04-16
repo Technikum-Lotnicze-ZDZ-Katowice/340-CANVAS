@@ -52,6 +52,8 @@ https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg
 
 ![Arkanoid](https://www.asteroidg.com/images/screenshots/arkanoid_1986_01.png)
 
+https://pl.wikipedia.org/wiki/Pong
+
 IIIi - 
 
 - Kajetan - https://magik244.github.io/game/
