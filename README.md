@@ -52,7 +52,6 @@ https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg
 
 ![Arkanoid](https://www.asteroidg.com/images/screenshots/arkanoid_1986_01.png)
 
-https://pl.wikipedia.org/wiki/Pong
 
 IIIi - 
 
@@ -62,7 +61,8 @@ IIIi -
 - Kuba - https://technikum-lotnicze-zdz-katowice.github.io/arkanoid-kuba/
 - Igor - https://technikum-lotnicze-zdz-katowice.github.io/igor-newrepo/
 
-ZAD34005 - Przygotuj klon klasycznej gry PONG
+ZAD34005 - Przygotuj klon klasycznej gry PONG 
+https://pl.wikipedia.org/wiki/Pong
 
 ![Pong](pong.png)
 
