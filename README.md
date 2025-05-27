@@ -54,8 +54,7 @@ https://pl.wikipedia.org/wiki/Plik:Arkanoid-logo.svg
 
 ![Arkanoid](https://www.asteroidg.com/images/screenshots/arkanoid_1986_01.png)
 
-
-IIIi - 
+III - 
 
 - Kajetan - https://magik244.github.io/game/
 - Dominik - https://technikum-lotnicze-zdz-katowice.github.io/dominiczkanoid/
