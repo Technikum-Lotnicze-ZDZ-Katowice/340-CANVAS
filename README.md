@@ -64,6 +64,7 @@ III -
 - Maks - https://makssek664.github.io/ball
 - Xawier - https://krzakier.github.io/repozyt/
 - Mokołaj - https://jamikolaj.github.io/arkanoidkolaj/
+- Wiktor - https://wiktormakel.github.io/zembrzus
 
 ZAD34005 - Przygotuj klon klasycznej gry PONG 
 https://pl.wikipedia.org/wiki/Pong
