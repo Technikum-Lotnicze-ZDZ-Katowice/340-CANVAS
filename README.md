@@ -62,6 +62,7 @@ III -
 - Kuba - https://technikum-lotnicze-zdz-katowice.github.io/arkanoid-kuba/
 - Igor - https://technikum-lotnicze-zdz-katowice.github.io/igor-newrepo/
 - Maks - https://makssek664.github.io/ball
+- Xawier - https://krzakier.github.io/repozyt/
 
 ZAD34005 - Przygotuj klon klasycznej gry PONG 
 https://pl.wikipedia.org/wiki/Pong
